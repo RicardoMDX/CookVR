@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Salad
+  - Tomato
+  - Meat
+  - Fish
+  - Spaghetti
+  - Item
+  - Plate
+  - SpaghettiUncooked
+  - FishUncooked
+  - MeatUncooked
   layers:
   - Default
   - TransparentFX
@@ -14,7 +24,7 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
+  - Items
   - 
   - 
   - 
